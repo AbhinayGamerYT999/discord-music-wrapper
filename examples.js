@@ -19,4 +19,4 @@ client.on("message", (message) => {
     musicPlayer.shuffle(message) // Shuffles the whole queue.
     musicPlayer.volume(message, volume) // Sets the volume to the certain amount. Using negative values will show the volume that is using now instead.
 })
-client.login("Some tokens")
+client.login("NzQ0NTIzMTQ5OTU3Mzk4NTU5.XzkdNw.4oLnp_YG7QcDx5bI1VGn9R-Z7cQ")
